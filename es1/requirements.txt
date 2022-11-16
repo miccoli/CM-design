@@ -1,0 +1,3 @@
+holoviews=~1.15.2
+bokeh=~2.4.3
+numpy=~1.23.3
