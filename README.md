@@ -1,2 +1,5 @@
 # CM-design
-Material for my students (in Italian)
+
+## Carico distribuito
+
+- [Posizione degli appoggi](https://mybinder.org/v2/gh/miccoli/CM-design/feature/es1?labpath=es1/es1.ipynb)
