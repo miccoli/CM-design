@@ -1,0 +1,8 @@
+name: python310
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - holoviews=1.15
+  - bokeh=2.4
+  - numpy=1.23
